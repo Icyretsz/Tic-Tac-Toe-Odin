@@ -1,0 +1,55 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background-color: cadetblue;
+    gap: 50px;
+}
+
+.marker {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 150px;
+    margin: 0px;
+}
+
+span {
+    font-size: 100px;
+}
+
+.playerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Cell {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+}
+
+.Row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+#gameContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background-color: antiquewhite;
+    padding: 10px;
+    gap: 10px;
+}
+
