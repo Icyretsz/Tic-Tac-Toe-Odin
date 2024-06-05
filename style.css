@@ -15,12 +15,12 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 150px;
+    font-size: 50px;
     margin: 0px;
 }
 
 span {
-    font-size: 100px;
+    font-size: 50px;
 }
 
 .playerContainer {
@@ -31,8 +31,8 @@ span {
 
 .Cell {
     display: flex;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: cadetblue;
 }
 
